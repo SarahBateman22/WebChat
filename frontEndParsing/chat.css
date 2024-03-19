@@ -1,0 +1,33 @@
+h1{
+    text-align: center;
+}
+
+#container {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+body{
+    text-align: center;
+}
+
+.leftSide {
+    border: 10px ridge #013220;
+    background-color: #8df2f7;
+    padding: 0.5rem;
+    height: 450px;
+    width: 200px;
+    text-align: center;
+    font-size: 20px;
+}
+
+.rightSide {
+    border: 10px ridge #013220;
+    background-color: #8df2f7;
+    padding: 0.5rem;
+    height: 450px;
+    width: 650px;
+    text-align: center;
+    font-size: 20px;
+}
