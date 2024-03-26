@@ -9,9 +9,12 @@ Chat server supports room management - users are only shown chats for the room t
 
 
 
+
 <img width="600" alt="oneRm" src="https://github.com/SarahBateman22/WebChat/assets/142822160/989c4585-6928-4ffa-a32a-fd854fef4a94">
 
 Messages are displayed to all users in the room.
+
+
 
 
 <img width="600" alt="leftRm" src="https://github.com/SarahBateman22/WebChat/assets/142822160/880854ce-d60c-4158-942e-894568eaa215">
